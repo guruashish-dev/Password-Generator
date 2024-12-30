@@ -13,5 +13,5 @@ Key Features:
 You can either clone the repository or download the `password_generator.py` file.
 
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/guruashish-dev/password-generator.git
 cd password-generator
