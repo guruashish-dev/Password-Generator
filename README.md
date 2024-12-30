@@ -2,7 +2,7 @@
 
 This is a simple Python password generator that generates strong, random passwords and saves them to a text file. The program allows customization of password length and automatically stores the generated password for later use.
 
-Key Features:
+## Key Features:
 - Generates strong, random passwords of customizable length.
 - Supports letters (both uppercase and lowercase), digits, and special characters.
 - Saves the generated password to a text file (`generated_password.txt` by default).
